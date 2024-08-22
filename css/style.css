@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+.dash{
+    padding: 5%;
+}
+
+
+.formulario{
+    font-size: 20px;
+    text-align: center;
+}
+
+.formulario .botao{
+    width: 100px;
+height: 50px;
+    margin-bottom: 10px;
+}
+
+.formulario .area{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
